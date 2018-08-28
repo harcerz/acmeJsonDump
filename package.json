@@ -1,0 +1,14 @@
+{
+  "name": "acmedump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dump.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateusz Sych",
+  "license": "ISC",
+  "dependencies": {
+    "safe-buffer": "^5.1.2"
+  }
+}
